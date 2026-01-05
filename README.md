@@ -6,5 +6,4 @@ The aim of this repository is to demonstrate **strong fundamentals**, **clear lo
 
 ---
 
-## 📂 Repository Structure
 
